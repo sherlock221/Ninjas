@@ -1,0 +1,14 @@
+目录结构
+
+Art : 资源图片 (普通版本高清版本图片  怪物、忍者、忍者飞镖)
+Platform : 每种平台
+Sounds  : 背景音乐
+src     : 游戏代码
+
+
+
+cocos2d.js
+在DOMContentLoaded 完毕后 加载所需要的库 coco2d库 以及 自己写的代码库
+
+
+
